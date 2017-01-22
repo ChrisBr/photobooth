@@ -24,7 +24,6 @@ gem 'quiet_assets'
 
 # file upload + qrcode
 gem 'config-parser'
-gem 'dropbox-api'
 
 #group :development do
 #  gem 'byebug'
